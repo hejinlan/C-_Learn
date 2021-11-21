@@ -1,0 +1,6 @@
+"main.obj",
+"Delay.obj",
+"LCD1602.obj",
+"MatrixKey.obj" 
+TO "PJ" 
+PRINT(".\Listings\PJ.m51") RAMSIZE(256) 
